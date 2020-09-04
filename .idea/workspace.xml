@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16a7c1ae-2bb8-4530-9804-cc2dae9fa498" name="Default Changelist" comment="Flipkart selenium test">
+      <change afterPath="$PROJECT_DIR$/../../Angular TypeScript/Setup/tm-movie-booking-app-frontend/node_modules/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Angular TypeScript/Setup/tm-movie-booking-app-frontend/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Angular TypeScript/Setup/tm-movie-booking-app-frontend/node_modules/defaults/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Angular TypeScript/Setup/tm-movie-booking-app-frontend/node_modules/socket.io-adapter/.idea/socket.io-adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Angular TypeScript/Setup/tm-movie-booking-app-frontend/node_modules/stylus/.idea/stylus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven_Projects/Maven_Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Maven_Projects/src/main/java/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkpoint+2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Junaid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flipkart/qa/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flipkart/qa/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/flipkart/qa/pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/flipkart/qa/TestCase/LandingPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/flipkart/qa/base/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/flipkart/qa/pages/LandingPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/flipkart/qa/TestCase/LandingPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkpoint_3_and_4/.idea/Checkpoint_3_and_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkpoint_3_and_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkpoint_3_and_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkpoint_3_and_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Checkpoint_3_and_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionThree/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionThree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionThree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionThree/rest-assured.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionThree/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionThree/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_beust_jcommander_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_squareup_okio_okio_1_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_testng_testng_6_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/tm-testing-food-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tm-testing-food-app-sessionTwo/SampleProjectUpgrad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring-Course-Project-Part-2-master/HireWheels.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course5/HireWheels1/HireWheels" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course5/HireWheels1/HireWheels" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course5/Module1/tm_spring_rest" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course5/Module1/tm_spring_rest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Course5/tm-movie-booking-app-backend" beforeDir="false" afterPath="$PROJECT_DIR$/../../Course5/tm-movie-booking-app-backend" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gVWjZmhHBN7EORHrLRrFh7io9t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Upgrad\Software Testing\Checkpoint+2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.F:/Upgrad/Software Testing/Checkpoint+2/testng.xml">
+    <configuration name="F:/Upgrad/Software Testing/Checkpoint+2/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Checkpoint+2" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Checkpoint+2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flipkart.qa.TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flipkart.qa.TestCase" />
+      <option name="MAIN_CLASS_NAME" value="com.flipkart.qa.TestCase.LandingPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LandingPageTest.selectTheTshirt" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Checkpoint+2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flipkart.qa.TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flipkart.qa.TestCase" />
+      <option name="MAIN_CLASS_NAME" value="com.flipkart.qa.TestCase.LandingPageTest" />
+      <option name="METHOD_NAME" value="selectTheTshirt" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.F:/Upgrad/Software Testing/Checkpoint+2/testng.xml" />
+        <item itemvalue="TestNG.LandingPageTest" />
+        <item itemvalue="TestNG.LandingPageTest.selectTheTshirt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16a7c1ae-2bb8-4530-9804-cc2dae9fa498" name="Default Changelist" comment="" />
+      <created>1598200375659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598200375659</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Flipkart selenium test">
+      <created>1599237705465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599237705465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Flipkart selenium test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Flipkart selenium test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598201630078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598201630078" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1599028510885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1599028510885" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1599237011170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599237011170" />
+    <state width="1322" height="219" key="GridCell.Tab.0.bottom" timestamp="1599237011576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599237011576" />
+    <state width="1322" height="219" key="GridCell.Tab.0.center" timestamp="1599237011576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599237011576" />
+    <state width="1322" height="219" key="GridCell.Tab.0.left" timestamp="1599237011575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599237011575" />
+    <state width="1322" height="219" key="GridCell.Tab.0.right" timestamp="1599237011576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599237011576" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1599162368378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599162368378" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1599162368378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599162368378" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1599162368378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599162368378" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1599162368378">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599162368378" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1599159809085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1599159809085" />
+    <state x="360" y="65" key="RollbackChangesDialog" timestamp="1599237449015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="360" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237449015" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1599237831174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599237831174" />
+    <state x="467" y="97" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1599237566538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="97" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237566538" />
+    <state x="375" y="244" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599237305513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="244" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1599237305513" />
+    <state x="131" y="0" key="new project wizard" timestamp="1598867937260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1598867937260" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599237797909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1599237797909" />
+  </component>
+</project>

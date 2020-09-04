@@ -1,0 +1,47 @@
+Steps to create a basic Project:
+
+Step 1: File -> New -> Project -> Maven Project
+
+Step 2: Check “Create a simple project (skip archetype selection) and say “Next”
+
+Step 3: Name Group Id and Artifact Id and say “Finish”.
+
+Step 4: Create a new package under src/test/java of our Maven project and say “Finish”.
+
+Step 5: add following plugin and dependencies in pom.xml
+
+   <build>
+     <plugins>
+       <plugin>
+           <groupId>org.apache.maven.plugins</groupId>
+           <artifactId>maven-surefire-plugin</artifactId>
+           <version>2.19.1</version>
+           <configuration>
+               <testFailureIgnore>true</testFailureIgnore>
+               <suiteXmlFiles>
+                   <!-- TestNG suite XML files -->
+                   <suiteXmlfiles>testng.xml</suiteXmlfiles>
+               </suiteXmlFiles>
+           </configuration>
+       </plugin>
+     </plugins>
+   </build>
+
+   <dependencies>
+      <dependency>
+         <groupId>org.seleniumhq.selenium</groupId>
+         <artifactId>selenium-java</artifactId>
+         <version>3.14.0</version>
+      </dependency>
+
+      <dependency>
+          <groupId>org.testng</groupId>
+          <artifactId>testng</artifactId>
+          <version>6.11</version>
+          <scope>compile</scope>
+      </dependency>
+   </dependencies>
+
+
+Step 6: mvn clean install
+
